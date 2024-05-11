@@ -1,0 +1,64 @@
+.menu{
+    height: 60pt;
+    width: auto;
+    background-color: pink;
+    text-align: center;
+}
+body{
+    background-image: url('../sogol/pink3.webp');
+    background-repeat: repeat-y-x;
+    background-size: 25%;
+    background-attachment: scroll;
+    direction: ltr;
+    margin: 0;
+}
+.secs{
+    padding: 30pt 5% 30pt 5%;
+}
+.top_movies_cards_top{
+    height: 324pt;
+    border-radius: 5%;
+
+}
+.header{
+    height: 171pt;
+}
+.footer{
+    height: 100pt;
+    width: auto;
+    background-color: #ffffff;
+}
+*{
+    font-family: cursive;
+    font-weight: bold;
+    box-sizing: inherit;
+}
+.background{
+    height: 500pt;
+    width: auto;
+    background-color: rgb(169, 203, 250);
+}
+.background2{
+    height: 500pt;
+    width: auto;
+    background-color: rgb(234, 255, 163);
+}
+.background3{
+    height: 500pt;
+    width: auto;
+    background-color: rgb(136, 255, 170);
+}
+.background4{
+    height: 500pt;
+    width: auto;
+    background-color: rgb(253, 190, 141);
+}
+.home-page{
+    text-align: left;
+    position: absolute;
+    color: #000;
+}
+
+
+
+
